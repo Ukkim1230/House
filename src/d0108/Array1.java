@@ -9,7 +9,7 @@ public class Array1 {
 		Random r = new Random();
 		int[] ages = new int[10];
 		for(int i=0;i<10;i++) {
-			ages[i] = r.nextInt(100)+1;
+			ages[i] = r.nextInt(100)+1;//(0~99)+1 = (1~100)
 		}
 		
 
