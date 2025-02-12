@@ -9,6 +9,5 @@ public class Operator5 {
 		i -= 1;
 		i *= 1;
 		i /= 1;
-		
 	}
 }
